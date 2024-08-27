@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Dancing Script", cursive;
+    color: #2839b2;
+}
+
+h3 + p {
+    text-decoration: underline;
+}
+
+h2 { text-decoration:underline;}
+
+body { background-color: #e2ddd5;
+    font-family: "Roboto", sans-serif;
+font-weight: 300;}
+
+body { color: #4453c1}
+
+#StrIta {font-weight: 700;}
